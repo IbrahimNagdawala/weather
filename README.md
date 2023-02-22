@@ -1,5 +1,3 @@
-# weather
-
 # Weather Report Website
 
 This is a simple weather report website that provides up-to-date weather information for different locations. 
