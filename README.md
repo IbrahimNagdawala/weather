@@ -11,9 +11,10 @@ This is a simple weather report website that provides up-to-date weather informa
 - Includes a user-friendly interface that is easy to navigate
 
 ## Technologies Used
-- HTML/CSS/JavaScript
+- HTML/CSS
+-JavaScript
 - OpenWeatherMap API
-- Bootstrap framework
+
 
 ## Installation
 To use this weather report website, simply download the code and open the `index.html` file in your preferred web browser.
@@ -24,8 +25,7 @@ To use this weather report website, simply download the code and open the `index
 3. The weather information for the selected location will be displayed on the page
 
 ## Credits
-This project was created by [Your Name Here].
+This project was created by Ibrahim Nagdawala.
 
-## License
-This project is licensed under the [MIT License](https://github.com/yourusername/weather-report-website/blob/main/LICENSE).
+
 
