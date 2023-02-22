@@ -4,13 +4,13 @@ This is a simple weather report website that provides up-to-date weather informa
 
 ## Features
 - Displays current weather conditions (temperature, humidity, wind speed, etc.) for a user-selected location
-- Provides a 5-day weather forecast for the selected location
+- Provides a 7-day weather forecast for the selected location
 - Supports searching for weather information for any location in the world
 - Includes a user-friendly interface that is easy to navigate
 
 ## Technologies Used
 - HTML/CSS
--JavaScript
+- JavaScript
 - OpenWeatherMap API
 
 
